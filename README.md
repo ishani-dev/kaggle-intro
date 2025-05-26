@@ -45,4 +45,4 @@ Whether you're new to data science or an experienced practitioner, Kaggle is a g
 ## 📘 Lab Sheet
 
 Looking for the hands-on lab exercises?  
-👉 [Click here to view the full lab sheet](./lab.md)
+👉 [Click here to view the full lab sheet](./Intro-to-Kaggle-Lab.md)
